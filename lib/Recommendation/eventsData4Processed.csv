@@ -1,0 +1,424 @@
+event_id,domain,title,date,time,location,speaker,event_mode,description
+0,Cloud Computing,AWS Cloud Computing Event,2024-09-14,10:00,Rourkela,Michael Johnson,Meetup,Learn cloud computing fundamentals with AWS
+1,Education,Education Administrator Education Event,2023-06-12,10:00,Villupuram,Daniel Johnson,Webinar,Create engaging learning experiences with Education Administrator
+2,Blockchain,Cardano Blockchain Event,2023-12-05,14:00,Dindigul,Isabella Anderson,Webinar,Conduct blockchain consensus mechanism research with Cardano
+3,Education,Academic Coach Education Event,2023-04-08,09:00,Gorakhpur,Avery Harris,Meetup,Design and implement curriculum and instructional materials as a Academic Coach
+4,Engineering,Biomedical Engineering Engineering Event,2024-06-22,13:00,Gulbarga,Alexander Young,Conference,Address environmental challenges through engineering solutions as a Biomedical Engineering
+5,Marketing Specialist,Community Manager Marketing Specialist Event,2024-11-07,17:00,Villupuram,Andrew Harris,Workshop,Analyze digital marketing campaigns and channels to optimize performance as a Community Manager
+6,Data Analysis,Credit Analyst Data Analysis Event,2024-09-03,12:00,Jamnagar,Aiden White,Webinar,Utilize data visualization techniques to present findings and trends as a Credit Analyst
+7,Artificial Intelligence,Computer Vision Engineer Artificial Intelligence Event,2024-01-04,16:00,Agra,John Doe,Webinar,Address ethical considerations in AI development and deployment as a Computer Vision Engineer
+8,Marketing Specialist,Marketing Analyst Marketing Specialist Event,2024-03-04,10:00,Kochi,James Young,Meetup,Develop content plans and editorial calendars to drive engagement and conversion as a Marketing Analyst
+9,Education,Special Education Teacher Education Event,2024-08-05,11:00,Jodhpur,Carter Johnson,Conference,Collaborate with colleagues and stakeholders to improve educational outcomes as a Special Education Teacher
+10,Accounting,QuickBooks Accounting Event,2025-01-14,09:00,Guwahati,Ethan Hernandez,Conference,Prepare and review financial statements using QuickBooks
+11,Finance,Corporate Finance Finance Event,2023-10-19,11:00,Chandigarh,Emily Brown,Workshop,Understand fixed income securities in Corporate Finance
+12,Accounting,Oracle Financials Accounting Event,2024-11-30,16:00,Nashik,Evelyn Hernandez,Conference,Generate customizable financial reports with Oracle Financials
+13,Human Resource,Benefits Administrator Human Resource Event,2024-03-17,18:00,Salem,Joshua Garcia,Meetup,"Oversee HR policies, procedures, and compliance as a Benefits Administrator"
+14,DevOps,Heroku DevOps Event,2024-09-05,18:00,Hubli-Dharwad,Daniel Thomas,Webinar,Integrate with other DevOps tools and platforms using Heroku
+15,Engineering,Environmental Engineering Engineering Event,2024-10-20,14:00,Ajmer,Abigail White,Meetup,Optimize manufacturing processes and systems as a Environmental Engineering
+16,Computer Science,Lua Computer Science Event,2024-08-05,13:00,Vellore,Olivia Brown,Webinar,Implement machine learning algorithms with Lua
+17,Software Engineer,Systems Analyst Software Engineer Event,2024-08-30,17:00,Gulbarga,David Rodriguez,Webinar,Utilize version control systems for code collaboration and management as a Systems Analyst
+18,Data Science,SPSS Data Science Event,2024-03-09,13:00,Agra,Ethan Jones,Meetup,Apply SPSS for data analysis and visualization
+19,Marketing,Influencer Marketing Marketing Event,2025-02-03,16:00,Howrah,Grace Martinez,Workshop,Automate marketing processes with Influencer Marketing tools
+20,Data Analysis,Supply Chain Analyst Data Analysis Event,2023-10-13,09:00,Gorakhpur,Joseph Anderson,Meetup,Analyze and interpret data to uncover insights and trends as a Supply Chain Analyst
+21,Healthcare,Respiratory Therapy Healthcare Event,2024-10-29,17:00,Aurangabad,David Lee,Meetup,Oversee operations and ensure quality care delivery in healthcare facilities as a Respiratory Therapy
+22,Blockchain,Truffle Blockchain Event,2024-12-13,10:00,Chennai,Aiden White,Webinar,Understand the underlying technology of cryptocurrencies like Truffle
+23,Frontend Development,Bulma Frontend Development Event,2023-10-04,15:00,Ahmedabad,Emily Thompson,Meetup,Develop cross-platform mobile applications with Bulma
+24,Engineering,Marine Engineering Engineering Event,2023-05-10,11:00,Bikaner,Aiden White,Workshop,Develop new materials for various applications as a Marine Engineering
+25,Data Science,Java Data Science Event,2024-04-06,10:00,Warangal,Liam Thompson,Meetup,Implement data mining algorithms with Java
+26,Artificial Intelligence,Game AI Developer Artificial Intelligence Event,2023-12-16,18:00,Tirunelveli,Alexander Lewis,Workshop,Implement reinforcement learning algorithms with Game AI Developer
+27,Marketing,Video Marketing Marketing Event,2024-05-21,14:00,Loni,Ethan Brown,Meetup,Analyze marketing metrics and KPIs to measure campaign effectiveness with Video Marketing
+28,Software Engineer,Game Developer Software Engineer Event,2024-07-14,09:00,Hyderabad,Ethan Thompson,Meetup,Implement and automate deployment pipelines and infrastructure as code as a Game Developer
+29,Marketing Specialist,Public Relations Specialist Marketing Specialist Event,2024-07-14,18:00,Bangalore,Sophia Johnson,Workshop,Manage social media platforms and engage with audiences to build brand presence as a Public Relations Specialist
+30,MLOps,DVC MLOps Event,2023-12-09,18:00,Bhiwandi,John Doe,Webinar,Utilize DVC for model serving and inference
+31,Artificial Intelligence,AI Consultant Artificial Intelligence Event,2023-08-11,18:00,Madurai,Ella Lewis,Meetup,Lead the development and launch of AI-powered products as a AI Consultant
+32,Software Engineer,Web Developer Software Engineer Event,2024-01-28,14:00,Navi Mumbai,Christopher Harris,Webinar,Architect and deploy cloud-native solutions using Web Developer services as a Web Developer
+33,Marketing,Affiliate Marketing Marketing Event,2024-12-02,17:00,Dindigul,Samuel Martinez,Workshop,Utilize social media platforms for brand promotion and customer engagement with Affiliate Marketing
+34,Blockchain,Avalanche Blockchain Event,2023-07-10,14:00,Bhavnagar,Jackson Martinez,Webinar,Explore blockchain privacy and confidentiality solutions with Avalanche
+35,Data Analysis,Quantitative Analyst Data Analysis Event,2025-02-02,12:00,Bikaner,Sophia Perez,Meetup,Assess and mitigate risks through data-driven decision-making as a Quantitative Analyst
+38,Computer Science,HTML/CSS Computer Science Event,2023-04-05,10:00,Jammu,Olivia Brown,Webinar,Analyze data and generate insights using HTML/CSS
+39,Finance,Derivatives Trading Finance Event,2024-01-02,15:00,Madurai,Ella Young,Conference,Structure mergers and acquisitions deals in Derivatives Trading
+40,DevOps,Terraform DevOps Event,2023-10-17,16:00,Navi Mumbai,Matthew Taylor,Conference,Integrate with other DevOps tools and platforms using Terraform
+41,Computer Science,PHP Computer Science Event,2024-07-02,13:00,Jabalpur,Ethan Thompson,Conference,Analyze data and generate insights using PHP
+42,Frontend Development,Bootstrap Frontend Development Event,2023-03-25,17:00,Kolhapur,James Harris,Webinar,Develop cross-platform mobile applications with Bootstrap
+43,MLOps,TensorBoard MLOps Event,2025-03-13,16:00,Gorakhpur,Samuel Hernandez,Meetup,Containerize machine learning applications with TensorBoard
+44,Photography,Hasselblad Photography Event,2024-09-19,11:00,Allahabad,Olivia Johnson,Meetup,Learn advanced composition techniques with Hasselblad
+45,Photography,Pentax Photography Event,2024-08-05,16:00,Salem,Aiden Brown,Webinar,Master the use of Pentax camera settings
+46,Finance,Real Estate Finance Event,2025-01-25,11:00,Villupuram,Avery Harris,Conference,Structure mergers and acquisitions deals in Real Estate
+47,Cloud Computing,Cisco Cloud Cloud Computing Event,2023-08-18,17:00,Madurai,Avery Hernandez,Webinar,"Utilize Cisco Cloud services for storage, compute, and networking"
+48,Accounting,FreeAgent Accounting Event,2023-12-06,18:00,Pimpri-Chinchwad,Carter Garcia,Conference,Generate customizable financial reports with FreeAgent
+49,Marketing,Event Marketing Marketing Event,2023-03-27,10:00,Nanded,Jackson Brown,Meetup,Design and execute targeted email campaigns with Event Marketing
+50,MLOps,KNative MLOps Event,2024-04-10,09:00,Mysore,Alexander Hernandez,Webinar,Manage and monitor machine learning experiments with KNative
+53,Frontend Development,Backbone.js Frontend Development Event,2024-04-04,13:00,Dhanbad,Samuel Young,Webinar,Utilize Backbone.js for server-side rendering
+54,Photography,Panavision Photography Event,2023-09-22,10:00,Allahabad,Samuel Martin,Conference,Learn advanced composition techniques with Panavision
+55,Human Resource,Recruiter Human Resource Event,2023-04-22,15:00,Ajmer,Grace Garcia,Conference,Conduct job analysis and evaluation as a Recruiter
+57,Photography,Phase One Photography Event,2024-10-12,09:00,Chennai,Alexander Thompson,Workshop,Learn portrait photography techniques with Phase One
+58,Computer Science,Python Computer Science Event,2024-05-21,09:00,Ludhiana,David Martinez,Conference,Analyze data and generate insights using Python
+59,DevOps,OpenShift DevOps Event,2024-04-07,09:00,Jabalpur,Carter Johnson,Meetup,Manage cloud resources and services using OpenShift
+60,Accounting,Intuit QuickBooks Online Accounting Event,2024-09-11,14:00,Kumbakonam,Abigail Taylor,Workshop,Utilize Intuit QuickBooks Online for expense tracking
+61,Artificial Intelligence,AI Curriculum Developer Artificial Intelligence Event,2023-09-18,09:00,Bhilai,Grace Thompson,Workshop,Lead the development and launch of AI-powered products as a AI Curriculum Developer
+62,Human Resource,HRIS Analyst Human Resource Event,2025-02-22,12:00,Rourkela,Alexander White,Conference,"Lead diversity, equity, and inclusion (DEI) initiatives as a HRIS Analyst"
+63,Software Engineer,Frontend Developer Software Engineer Event,2024-05-13,16:00,Bikaner,David Thompson,Workshop,Integrate third-party APIs and services into applications as a Frontend Developer
+64,Data Analysis,Healthcare Analyst Data Analysis Event,2025-02-09,16:00,Bhiwandi,Aiden Young,Workshop,Conduct financial modeling and analysis to support business planning and forecasting as a Healthcare Analyst
+65,Marketing,Growth Hacking Marketing Event,2024-08-20,18:00,Guntur,Michael Johnson,Conference,Create engaging content to attract and retain customers through Growth Hacking
+66,Computer Science,JavaScript Computer Science Event,2024-08-23,09:00,Pimpri-Chinchwad,Evelyn Brown,Meetup,Secure applications and networks with JavaScript
+69,Finance,Venture Capital Finance Event,2024-07-01,09:00,Gulbarga,Ella Martinez,Meetup,Analyze financial markets and execute trades as Venture Capital
+71,Marketing,Mobile Marketing Marketing Event,2023-12-05,12:00,Saharanpur,Mason Anderson,Meetup,Optimize search engine visibility through Mobile Marketing techniques
+72,Marketing,Native Advertising Marketing Event,2024-10-30,15:00,Erode,Emily Thompson,Conference,Develop digital marketing campaigns using Native Advertising strategies
+73,Marketing,Email Marketing Marketing Event,2024-10-08,15:00,Mumbai,Ava Anderson,Conference,Utilize mobile platforms for advertising and promotion with Email Marketing
+74,Data Science,Tableau Data Science Event,2023-03-28,18:00,Aurangabad,Carter Thompson,Conference,Explore machine learning techniques with Tableau
+75,Cloud Computing,Alibaba Cloud Cloud Computing Event,2023-08-18,11:00,Ranchi,Ella Harris,Webinar,Leverage Alibaba Cloud for big data analytics and machine learning
+78,Machine Learning,PyTorch Machine Learning Event,2025-02-03,18:00,Gwalior,Mia Davis,Webinar,Explore ensemble learning methods with PyTorch
+79,DevOps,Oracle Cloud DevOps Event,2025-03-13,09:00,Hyderabad,Ethan Martin,Webinar,Implement multi-cloud and hybrid cloud architectures with Oracle Cloud
+80,Engineering,Engineering Management Engineering Event,2023-11-18,12:00,Cuttack,Charlotte Harris,Conference,"Plan, design, and oversee construction projects as a Engineering Management"
+81,DevOps,DigitalOcean DevOps Event,2023-09-13,13:00,Firozabad,Samuel Martin,Workshop,Optimize cost and resource utilization in cloud environments with DigitalOcean
+83,Artificial Intelligence,Autonomous Vehicle Engineer Artificial Intelligence Event,2024-02-04,15:00,Jaipur,Jackson Martinez,Workshop,Utilize Autonomous Vehicle Engineer for data-driven decision-making
+85,Marketing,Guerrilla Marketing Marketing Event,2023-08-19,18:00,Gurgaon,Mason Anderson,Conference,Create compelling video content for Guerrilla Marketing campaigns
+86,Human Resource,HR Generalist Human Resource Event,2024-04-30,17:00,Chennai,Ethan Brown,Conference,Facilitate organizational change initiatives as a HR Generalist
+87,DevOps,Nomad DevOps Event,2023-07-26,13:00,Kolhapur,Isabella Martinez,Conference,Implement infrastructure as code (IaC) using Nomad
+88,Student,Non-traditional Student Student Event,2025-02-10,13:00,Jaipur,Mia Hernandez,Meetup,Select courses and majors aligned with career goals as a Non-traditional Student
+89,Frontend Development,Semantic UI Frontend Development Event,2025-02-20,15:00,Chennai,Alexander Hernandez,Conference,Develop cross-platform mobile applications with Semantic UI
+90,Marketing,Marketing Automation Marketing Event,2023-05-18,10:00,Chennai,Aiden Davis,Workshop,Design and execute targeted email campaigns with Marketing Automation
+93,Engineering,Nuclear Engineering Engineering Event,2024-05-28,17:00,Belgaum,Evelyn Young,Meetup,Design medical devices and technologies as a Nuclear Engineering
+94,Engineering,Automotive Engineering Engineering Event,2024-04-24,09:00,Nellore,David Hernandez,Conference,Build and maintain software applications and systems as a Automotive Engineering
+96,Data Analysis,Data Analyst Data Analysis Event,2024-02-22,10:00,Ghaziabad,Mason Hernandez,Conference,Gather and analyze market data to inform business strategies and decisions as a Data Analyst
+97,Education,Education Coordinator Education Event,2024-02-03,14:00,Kolkata,Ethan Jones,Meetup,Evaluate educational programs and interventions for effectiveness as a Education Coordinator
+99,Computer Science,SQL Computer Science Event,2025-02-21,11:00,Allahabad,Matthew Anderson,Webinar,Learn database management and querying with SQL
+100,Healthcare,Biomedical Engineering Healthcare Event,2024-12-19,10:00,Guntur,Jackson Brown,Workshop,Dispense medications and provide pharmaceutical care as a Biomedical Engineering
+101,Finance,Algorithmic Trading Finance Event,2025-01-02,11:00,Vadodara,Isabella Anderson,Workshop,Analyze financial statements and ratios using Algorithmic Trading
+102,Photography,Canon Photography Event,2024-05-22,17:00,Salem,Madison Harris,Webinar,Utilize Canon lenses for various photography genres
+104,Software Engineer,Firmware Engineer Software Engineer Event,2024-03-03,13:00,Jhansi,Mia Garcia,Conference,Create interactive and immersive gaming experiences as a Firmware Engineer
+105,Finance,Asset Management Finance Event,2023-09-22,12:00,Gurgaon,Isabella Lewis,Meetup,Analyze real estate investment opportunities with Asset Management
+106,Artificial Intelligence,Natural Language Processing Engineer Artificial Intelligence Event,2023-09-14,12:00,Siliguri,Olivia Lewis,Conference,Analyze large datasets using Natural Language Processing Engineer techniques
+107,Frontend Development,Gatsby Frontend Development Event,2024-01-06,18:00,Jamnagar,Joshua Garcia,Webinar,Utilize Gatsby for server-side rendering
+108,Cloud Computing,iCloud Cloud Computing Event,2023-06-10,09:00,Salem,Sophia Garcia,Meetup,Automate infrastructure provisioning and management with iCloud Resource Manager
+111,Healthcare,Pharmacy Healthcare Event,2024-08-29,16:00,Asansol,Carter Martin,Meetup,Perform laboratory tests and analyze results using Pharmacy
+113,Accounting,Xero Accounting Event,2024-02-02,16:00,Cuttack,Sophia Thomas,Meetup,Perform financial analysis using Xero
+115,Education,Library Media Specialist Education Event,2024-05-13,14:00,Vadodara,Ella Young,Conference,Integrate technology into teaching and learning processes as a Library Media Specialist
+117,Data Analysis,Business Analyst Data Analysis Event,2023-04-07,11:00,Vadodara,David Lee,Meetup,Utilize data visualization techniques to present findings and trends as a Business Analyst
+118,Data Analysis,Data Scientist Data Analysis Event,2025-03-02,13:00,Bhilai,Liam Martinez,Webinar,Perform regression and forecasting analysis to predict future outcomes as a Data Scientist
+120,Healthcare,Healthcare Informatics Healthcare Event,2024-10-08,14:00,Asansol,Joshua Thompson,Conference,Assign appropriate medical codes to diagnoses and procedures as a Healthcare Informatics
+121,Education,Technology Integration Specialist Education Event,2024-07-07,09:00,Namakkal,Sophia Hernandez,Webinar,Design and implement curriculum and instructional materials as a Technology Integration Specialist
+122,Computer Science,Objective-C Computer Science Event,2024-02-12,14:00,Namakkal,Emily Garcia,Conference,Master Objective-C programming language
+123,Accounting,FreshBooks Accounting Event,2024-06-20,12:00,Meerut,Olivia Martin,Webinar,Integrate FreshBooks with banking transactions
+124,Finance,Quantitative Finance Finance Event,2023-05-08,13:00,Jamnagar,Madison Brown,Conference,Understand fixed income securities in Quantitative Finance
+125,MLOps,CML MLOps Event,2024-08-18,14:00,Hyderabad,Sophia Taylor,Conference,Implement model performance monitoring and drift detection with CML
+126,Cloud Computing,VMware Cloud Cloud Computing Event,2023-05-30,18:00,Coimbatore,Charlotte Taylor,Webinar,Implement cloud security best practices with VMware Cloud
+128,Software Engineer,Machine Learning Engineer Software Engineer Event,2023-06-16,11:00,Kochi,Andrew Taylor,Conference,Build server-side applications and APIs using Machine Learning Engineer technologies as a Machine Learning Engineer
+129,MLOps,GitLab CI/CD MLOps Event,2023-09-20,15:00,Jalandhar,Ella Anderson,Webinar,Automate data versioning and pipeline tracking with GitLab CI/CD
+130,Cloud Computing,OpenShift Cloud Computing Event,2025-01-03,16:00,Kanpur,Michael Johnson,Meetup,Implement cloud security best practices with OpenShift
+131,Software Engineer,Network Engineer Software Engineer Event,2023-03-31,15:00,Nagpur,Emma Thompson,Workshop,Design and execute software testing strategies as a Network Engineer
+135,Education,Online Instructor Education Event,2024-12-25,16:00,Surat,James Jackson,Webinar,Create engaging learning experiences with Online Instructor
+137,Frontend Development,jQuery Frontend Development Event,2024-02-29,12:00,Lucknow,Aiden Young,Conference,Explore component-based architecture with jQuery
+138,Education,Education Program Manager Education Event,2024-01-02,09:00,Jamshedpur,Ava Lewis,Conference,Conduct research on teaching and learning effectiveness as a Education Program Manager
+139,Marketing Specialist,Media Planner Marketing Specialist Event,2024-10-13,16:00,Amravati,Olivia Martin,Webinar,Coordinate advertising campaigns and promotional activities to drive customer engagement as a Media Planner
+140,DevOps,AWS DevOps Event,2023-08-12,11:00,Rajkot,Ella Garcia,Meetup,Orchestrate containerized applications with AWS
+141,Photography,Nikon Photography Event,2024-05-11,09:00,Villupuram,Mia Young,Conference,Learn portrait photography techniques with Nikon
+142,Photography,Ricoh Photography Event,2024-12-20,10:00,Tirunelveli,James Lewis,Meetup,Understand the principles of exposure with Ricoh
+143,Frontend Development,Next.js Frontend Development Event,2023-04-07,18:00,Jamshedpur,Isabella Anderson,Meetup,Create accessible web applications with Next.js
+144,Data Analysis,Web Analyst Data Analysis Event,2024-10-22,13:00,Karur,Emily Thompson,Conference,Develop dashboards and reports to communicate insights and recommendations as a Web Analyst
+146,DevOps,Rancher DevOps Event,2024-03-06,13:00,Patna,Avery Brown,Workshop,Monitor and optimize system performance using Rancher
+148,Accounting,NetSuite Accounting Event,2024-10-11,09:00,Rajkot,Evelyn Young,Meetup,Utilize NetSuite for budgeting and forecasting
+149,Student,Senior Student Event,2024-07-12,11:00,Vijayawada,Jackson Garcia,Conference,Seek mentorship and guidance from professors and advisors as a Senior
+150,Photography,Sony Photography Event,2024-12-08,10:00,Kolkata,David Harris,Conference,Capture stunning images with Sony camera
+151,Cloud Computing,Cloud Foundry Cloud Computing Event,2024-06-05,16:00,Akola,Ava Hernandez,Webinar,Learn cloud computing fundamentals with Cloud Foundry
+152,Marketing,Community Management Marketing Event,2023-07-17,17:00,Pimpri-Chinchwad,Aiden Young,Webinar,Utilize mobile platforms for advertising and promotion with Community Management
+153,Cloud Computing,Adobe Cloud Cloud Computing Event,2025-03-07,11:00,Villupuram,Mia Thompson,Conference,Optimize cost and performance in Adobe Cloud cloud environments
+155,MLOps,Vertex AI MLOps Event,2023-05-07,09:00,Nagpur,Emily Thompson,Workshop,Implement continuous integration and continuous deployment (CI/CD) for machine learning pipelines using Vertex AI
+156,Engineering,Aerospace Engineering Engineering Event,2025-01-16,17:00,Thiruvananthapuram,Ava Harris,Webinar,Develop processes and systems for chemical manufacturing as a Aerospace Engineering
+157,Cloud Computing,DigitalOcean Cloud Computing Event,2024-01-23,13:00,Madurai,Grace Hernandez,Webinar,Learn cloud computing fundamentals with DigitalOcean
+158,Photography,Panasonic Photography Event,2023-05-07,09:00,Guntur,Alexander Lewis,Webinar,Utilize Panasonic accessories for creative photography
+159,Finance,Wealth Management Finance Event,2025-03-10,12:00,Dindigul,Mason Anderson,Workshop,Conduct due diligence processes in Wealth Management
+160,Student,Bachelor's Student Student Event,2023-10-14,10:00,Chennai,Samuel Hernandez,Meetup,Seek mentorship and guidance from professors and advisors as a Bachelor's Student
+161,Culinary Science,Food Chemistry Culinary Science Event,2023-04-28,16:00,Kota,Ava Lewis,Meetup,Understand the chemical reactions that occur during cooking and food preparation in Food Chemistry
+162,Cloud Computing,Red Hat OpenStack Cloud Computing Event,2023-05-24,10:00,Coimbatore,Jessica Martinez,Webinar,Utilize serverless computing services in Red Hat OpenStack
+164,Artificial Intelligence,Data Scientist Artificial Intelligence Event,2025-02-03,17:00,Kochi,Ethan Hernandez,Webinar,Conduct cutting-edge research in artificial intelligence as an Data Scientist
+166,Cloud Computing,Dropbox Cloud Computing Event,2023-12-17,15:00,Hyderabad,Amelia Taylor,Webinar,Implement cloud security best practices with Dropbox
+167,Frontend Development,Svelte Frontend Development Event,2024-11-21,09:00,Bhiwandi,Anthony Jones,Conference,Build dynamic user interfaces with Svelte
+168,Finance,Insurance Finance Event,2023-12-09,09:00,Nanded,Aiden Thompson,Conference,Create customized financial plans for clients with Insurance expertise
+170,Marketing Specialist,Event Coordinator Marketing Specialist Event,2024-11-12,11:00,Agra,Ella Lewis,Conference,Conduct A/B testing and experimentation to improve marketing effectiveness as a Event Coordinator
+173,Education,Guidance Counselor Education Event,2024-07-25,11:00,Namakkal,Isabella Lewis,Webinar,Develop and implement individualized education plans for students with special needs as a Guidance Counselor
+175,Computer Science,C++ Computer Science Event,2024-12-21,17:00,Bangalore,Matthew Hernandez,Workshop,Explore the fundamentals of C++ programming
+176,Finance,Commercial Banking Finance Event,2024-03-05,18:00,Kolhapur,Andrew Martinez,Workshop,Analyze real estate investment opportunities with Commercial Banking
+180,Student,Sophomore Student Event,2023-08-20,15:00,Kolhapur,Abigail Thompson,Webinar,Pursue academic excellence as a Sophomore
+181,Student,Full-time Student Student Event,2024-03-11,17:00,Ghaziabad,Joseph Hernandez,Workshop,Prepare for standardized tests and exams as a Full-time Student
+182,Marketing Specialist,Marketing Coordinator Marketing Specialist Event,2025-01-28,09:00,Vellore,Joseph Young,Workshop,Create press releases and media pitches to secure coverage and exposure as a Marketing Coordinator
+184,Accounting,SAP ERP Accounting Event,2023-05-12,11:00,Firozabad,Jackson Hernandez,Webinar,Implement inventory tracking with SAP ERP
+185,Student,International Student Student Event,2023-05-03,09:00,Ulhasnagar,Matthew Anderson,Webinar,Plan for graduate school or professional programs as a International Student
+187,DevOps,Salesforce Cloud DevOps Event,2023-06-24,09:00,Agra,Ava Harris,Workshop,Automate software deployment and updates with Salesforce Cloud
+188,Culinary Science,Farm-to-Table Cuisine Culinary Science Event,2024-09-05,11:00,Aurangabad,Liam Hernandez,Conference,Hands-on experience with Farm-to-Table Cuisine principles
+190,Marketing Specialist,Digital Analyst Marketing Specialist Event,2024-04-21,10:00,Nagpur,Samuel Young,Workshop,Develop content plans and editorial calendars to drive engagement and conversion as a Digital Analyst
+192,Marketing,Experiential Marketing Marketing Event,2024-05-24,17:00,Chandigarh,Samuel Thompson,Conference,Create engaging content to attract and retain customers through Experiential Marketing
+194,Blockchain,Stellar Blockchain Event,2023-08-08,14:00,Jammu,Avery Hernandez,Meetup,Conduct blockchain consensus mechanism research with Stellar
+195,Accounting,Sage Accounting Event,2023-10-22,15:00,Raipur,James Lewis,Meetup,Utilize Sage for budgeting and forecasting
+196,Artificial Intelligence,Robotics Engineer Artificial Intelligence Event,2025-01-31,13:00,Pune,Isabella Young,Webinar,Develop and deploy machine learning models as a Robotics Engineer
+198,DevOps,CloudFoundry DevOps Event,2024-07-12,18:00,Kota,Amelia Taylor,Webinar,Implement infrastructure as code (IaC) using CloudFoundry
+199,Human Resource,Training Specialist Human Resource Event,2024-02-28,13:00,Belgaum,Madison Brown,Conference,Identify and attract top talent for organizational needs as a Training Specialist
+200,Student,PhD Student Student Event,2024-02-01,11:00,Visakhapatnam,Mason Hernandez,Conference,Seek mentorship and guidance from professors and advisors as a PhD Student
+203,Computer Science,Haskell Computer Science Event,2023-11-30,09:00,Bangalore,Ava Thompson,Meetup,Build real-world projects using Haskell
+205,DevOps,Consul DevOps Event,2024-04-22,17:00,Tiruchirappalli,Chloe Thomas,Webinar,Optimize cost and resource utilization in cloud environments with Consul
+206,MLOps,Flyte MLOps Event,2025-01-14,16:00,Meerut,Isabella Johnson,Meetup,Implement model performance monitoring and drift detection with Flyte
+207,Marketing,Public Relations Marketing Event,2025-02-12,12:00,Bhopal,Jane Smith,Conference,Create compelling video content for Public Relations campaigns
+208,Data Science,NumPy Data Science Event,2024-06-18,10:00,Bhiwandi,Amelia Lewis,Conference,Master statistical hypothesis testing with NumPy
+209,Marketing Specialist,Market Research Analyst Marketing Specialist Event,2024-07-08,18:00,Vasai-Virar,Alexander Hernandez,Webinar,Create compelling and persuasive content for marketing materials as a Market Research Analyst
+210,Artificial Intelligence,Chatbot Developer Artificial Intelligence Event,2024-11-23,12:00,Noida,Matthew Hernandez,Workshop,Utilize Chatbot Developer for data-driven decision-making
+211,Engineering,Systems Engineering Engineering Event,2023-07-22,12:00,Madurai,Mia Garcia,Meetup,Develop processes and systems for chemical manufacturing as a Systems Engineering
+214,DevOps,Ansible DevOps Event,2023-05-30,13:00,Jammu,Isabella Lewis,Meetup,Monitor and optimize system performance using Ansible
+215,Computer Science,Scala Computer Science Event,2023-10-15,14:00,Bhavnagar,Jackson Thomas,Webinar,Master Scala programming language
+216,Software Engineer,Cloud Solutions Architect Software Engineer Event,2024-08-19,13:00,Navi Mumbai,James Harris,Workshop,Build responsive and scalable web applications as a Cloud Solutions Architect
+217,Software Engineer,Full Stack Developer Software Engineer Event,2024-08-18,12:00,Guwahati,Madison Martin,Meetup,Architect and deploy cloud-native solutions using Full Stack Developer services as a Full Stack Developer
+218,Data Science,Scikit-learn Data Science Event,2023-03-31,11:00,Jalandhar,Charlotte Harris,Workshop,Apply Scikit-learn for sentiment analysis
+219,Data Analysis,Sales Analyst Data Analysis Event,2024-03-07,18:00,Kalyan-Dombivali,Chloe Martinez,Workshop,Evaluate healthcare data to identify trends and improve patient outcomes as a Sales Analyst
+220,Healthcare,Radiologic Technology Healthcare Event,2023-08-15,13:00,Nashik,Mia Young,Conference,Create customized diet plans based on Radiologic Technology principles
+223,Machine Learning,CatBoost Machine Learning Event,2023-04-17,12:00,Namakkal,Samuel White,Meetup,Implement dimensionality reduction with CatBoost
+224,Machine Learning,NumPy Machine Learning Event,2024-09-10,13:00,Gwalior,Carter White,Webinar,Explore ensemble learning methods with NumPy
+227,Data Analysis,Social Media Analyst Data Analysis Event,2024-04-26,10:00,Allahabad,Avery Hernandez,Conference,Develop dashboards and reports to communicate insights and recommendations as a Social Media Analyst
+230,DevOps,Google Cloud DevOps Event,2024-11-18,13:00,Delhi,James Harris,Meetup,Ensure compliance and governance in cloud deployments with Google Cloud
+231,Human Resource,Employee Relations Specialist Human Resource Event,2023-05-06,16:00,Coimbatore,Madison Hernandez,Workshop,Develop and deliver training programs to enhance employee skills and performance as a Employee Relations Specialist
+232,Artificial Intelligence,AI Ethics Specialist Artificial Intelligence Event,2024-10-29,13:00,Aurangabad,Olivia White,Webinar,Implement reinforcement learning algorithms with AI Ethics Specialist
+233,Engineering,Chemical Engineering Engineering Event,2024-09-01,15:00,Thoothukudi,David Martinez,Meetup,Perform structural analysis and design in Chemical Engineering
+237,Engineering,Electrical Engineering Engineering Event,2023-06-11,13:00,Durgapur,Ethan Thompson,Workshop,Optimize manufacturing processes and systems as a Electrical Engineering
+239,Computer Science,R Computer Science Event,2023-05-09,15:00,Chandigarh,Ethan Taylor,Conference,Master R programming language
+240,Data Analysis,Operations Analyst Data Analysis Event,2023-09-13,09:00,Kota,Sophia Martinez,Meetup,Analyze sales data to identify opportunities for revenue growth and market expansion as a Operations Analyst
+241,DevOps,Nagios DevOps Event,2024-12-25,10:00,Jammu,Emma Young,Workshop,Ensure compliance and governance in cloud deployments with Nagios
+243,Human Resource,Organizational Development Consultant Human Resource Event,2024-07-28,16:00,Chennai,Andrew Harris,Workshop,Facilitate organizational change initiatives as a Organizational Development Consultant
+244,Healthcare,Healthcare Administration Healthcare Event,2023-10-15,16:00,Namakkal,Carter Thompson,Conference,Help patients recover from injuries or illnesses through Healthcare Administration techniques
+249,Blockchain,Bitcoin Blockchain Event,2024-09-30,11:00,Guntur,Emma Thompson,Meetup,Develop decentralized applications (DApps) on Bitcoin platform
+250,Marketing Specialist,SEO Specialist Marketing Specialist Event,2024-07-23,17:00,Villupuram,Chloe Johnson,Meetup,Create compelling and persuasive content for marketing materials as a SEO Specialist
+251,Data Science,Excel Data Science Event,2024-11-07,12:00,Belgaum,Grace Thompson,Conference,Analyze social media data using Excel
+252,Blockchain,Ethereum Blockchain Event,2024-11-19,16:00,Rourkela,Alexander Young,Webinar,Build decentralized finance (DeFi) applications on Ethereum
+254,MLOps,Kubeflow MLOps Event,2023-07-04,15:00,Dhanbad,Daniel Lewis,Workshop,Ensure data lineage and provenance with Kubeflow
+255,Student,Master's Student Student Event,2023-06-14,09:00,Dhanbad,Olivia Brown,Webinar,Gain practical experience through part-time jobs and internships as a Master's Student
+258,DevOps,Vault DevOps Event,2023-10-01,11:00,Karur,Andrew Taylor,Conference,Implement infrastructure as code (IaC) using Vault
+259,Culinary Science,Nutrition Science Culinary Science Event,2023-04-13,13:00,Dhanbad,Olivia Harris,Webinar,Explore the science of fermentation and its applications in Nutrition Science
+260,Machine Learning,Google AutoML Machine Learning Event,2024-04-25,09:00,Tiruchirappalli,Ella Garcia,Meetup,Explore deep learning concepts with Google AutoML
+262,Healthcare,Occupational Therapy Healthcare Event,2024-07-02,09:00,Nellore,Madison Martin,Meetup,Dispense medications and provide pharmaceutical care as a Occupational Therapy
+264,Education,Learning Technologist Education Event,2023-11-07,11:00,Dindigul,Madison Martin,Webinar,Provide counseling and support services to students as a Learning Technologist
+265,Marketing Specialist,Influencer Marketing Specialist Marketing Specialist Event,2024-02-15,18:00,Guntur,Isabella Martinez,Meetup,Develop content plans and editorial calendars to drive engagement and conversion as a Influencer Marketing Specialist
+266,Finance,Hedge Fund Management Finance Event,2024-10-28,09:00,Ranchi,Grace Garcia,Webinar,Perform business valuation using Hedge Fund Management methods
+268,Student,High School Student Student Event,2024-05-07,15:00,Gwalior,Samuel Johnson,Meetup,Explore diverse subjects and extracurricular activities as a High School Student
+269,Finance,Credit Analysis Finance Event,2023-06-02,16:00,Kolkata,Chloe Harris,Meetup,Explore derivatives trading strategies with Credit Analysis
+272,Education,Educational Consultant Education Event,2024-01-01,13:00,Namakkal,Mia Garcia,Conference,Evaluate educational programs and interventions for effectiveness as a Educational Consultant
+273,Frontend Development,Nuxt.js Frontend Development Event,2023-08-29,11:00,Ghaziabad,Sophia Johnson,Meetup,Integrate Nuxt.js with RESTful APIs
+274,Blockchain,Ganache Blockchain Event,2025-02-26,09:00,Aligarh,Aiden Davis,Workshop,Understand the underlying technology of cryptocurrencies like Ganache
+275,Culinary Science,Food Safety Culinary Science Event,2024-12-09,14:00,Nanded,Charlotte Hernandez,Webinar,Learn the science behind Food Safety in cooking
+276,Finance,Equity Research Finance Event,2024-03-13,17:00,Firozabad,Amelia Thompson,Conference,Understand fixed income securities in Equity Research
+277,Machine Learning,SciPy Machine Learning Event,2024-07-06,16:00,Hyderabad,Matthew Anderson,Workshop,Perform computer vision tasks with SciPy
+282,Healthcare,Clinical Psychology Healthcare Event,2023-04-16,15:00,Nellore,Evelyn Young,Conference,Help patients recover from injuries or illnesses through Clinical Psychology techniques
+285,Marketing Specialist,Brand Ambassador Marketing Specialist Event,2023-11-07,15:00,Rajkot,Jackson Brown,Workshop,Develop and execute brand strategies to enhance brand awareness and perception as a Brand Ambassador
+286,Frontend Development,Foundation Frontend Development Event,2024-05-06,15:00,Moradabad,Charlotte Hernandez,Conference,Build dynamic user interfaces with Foundation
+287,Healthcare,Medical Coding Healthcare Event,2023-04-13,18:00,Visakhapatnam,Olivia Martin,Webinar,Utilize telehealth technologies in Medical Coding
+288,Finance,Private Equity Finance Event,2023-12-06,09:00,Nagercoil,Liam Garcia,Conference,Optimize capital structure using Private Equity techniques
+289,Healthcare,Nutrition and Dietetics Healthcare Event,2023-09-28,10:00,Saharanpur,James Lewis,Workshop,Help patients recover from injuries or illnesses through Nutrition and Dietetics techniques
+291,Photography,Leica Photography Event,2024-11-11,18:00,Mysore,Sophia Taylor,Meetup,Explore the history and evolution of Leica cameras
+293,DevOps,VMware Cloud DevOps Event,2024-01-28,14:00,Ludhiana,Mia Anderson,Webinar,Automate infrastructure provisioning and configuration with VMware Cloud
+295,Photography,Fujifilm Photography Event,2024-07-21,18:00,Chennai,Mason Anderson,Conference,Explore the history and evolution of Fujifilm cameras
+299,Marketing Specialist,Content Strategist Marketing Specialist Event,2025-01-30,15:00,Hyderabad,David Thompson,Webinar,Analyze digital marketing campaigns and channels to optimize performance as a Content Strategist
+300,Artificial Intelligence,Image Recognition Engineer Artificial Intelligence Event,2023-03-26,11:00,Ranchi,Grace Thompson,Webinar,Apply Image Recognition Engineer for text classification and sentiment analysis
+303,Healthcare,Public Health Healthcare Event,2024-06-29,09:00,Jalandhar,Ella Young,Conference,Perform laboratory tests and analyze results using Public Health
+305,Human Resource,HR Manager Human Resource Event,2024-10-26,15:00,Ludhiana,Jackson Harris,Conference,Resolve workplace conflicts and issues as a HR Manager
+307,Cloud Computing,CenturyLink Cloud Computing Event,2024-04-15,14:00,Saharanpur,Alexander Lewis,Workshop,Automate infrastructure provisioning and management with CenturyLink Resource Manager
+310,Finance,Investment Banking Finance Event,2024-09-01,11:00,Pimpri-Chinchwad,Liam Thompson,Meetup,Analyze financial statements and ratios using Investment Banking
+311,Healthcare,Physiotherapy Healthcare Event,2023-08-17,09:00,Nashik,Sophia Brown,Conference,Assess and treat communication and swallowing disorders with Physiotherapy
+313,Computer Science,Ruby Computer Science Event,2023-08-05,18:00,Madurai,Avery Hernandez,Meetup,Build real-world projects using Ruby
+314,Culinary Science,Gastronomy Culinary Science Event,2024-06-18,18:00,Mysore,Emily Thompson,Webinar,Discover the cultural significance of Gastronomy
+320,Accounting,Excel Accounting Event,2023-11-09,18:00,Vadodara,David Harris,Webinar,Utilize Excel for expense tracking
+323,Frontend Development,Material-UI Frontend Development Event,2024-01-16,17:00,Thiruvananthapuram,Chloe White,Conference,Explore component-based architecture with Material-UI
+324,Education,Student Advisor Education Event,2024-04-29,14:00,Kolkata,Grace Young,Workshop,Design and implement curriculum and instructional materials as a Student Advisor
+325,Culinary Science,Pastry Arts Culinary Science Event,2024-08-06,10:00,Noida,James Jackson,Webinar,Study the cultural and historical aspects of Pastry Arts in culinary traditions
+327,Frontend Development,Ember.js Frontend Development Event,2024-01-27,16:00,Jhansi,Madison Hernandez,Conference,Master state management in Ember.js
+328,Data Analysis,Economic Analyst Data Analysis Event,2024-07-24,16:00,Faridabad,Ella Brown,Meetup,Perform regression and forecasting analysis to predict future outcomes as a Economic Analyst
+329,Blockchain,Hyperledger Blockchain Event,2023-07-18,11:00,Lucknow,Madison Brown,Workshop,Explore blockchain scalability solutions with Hyperledger
+330,Machine Learning,LightGBM Machine Learning Event,2024-11-04,10:00,Cuddalore,Liam Hernandez,Meetup,Apply LightGBM for time series forecasting
+331,Data Science,PyTorch Data Science Event,2023-06-20,16:00,Chennai,Aiden Young,Conference,Employ PyTorch for geospatial analysis
+332,Blockchain,Polkadot Blockchain Event,2024-09-23,18:00,Moradabad,Carter Thompson,Workshop,Explore blockchain scalability solutions with Polkadot
+335,Accounting,Zoho Books Accounting Event,2024-02-21,16:00,Ulhasnagar,Isabella Young,Workshop,Utilize Zoho Books for expense tracking
+337,Education,Education Researcher Education Event,2024-12-27,16:00,Chennai,Amelia Anderson,Meetup,Collaborate with colleagues and stakeholders to improve educational outcomes as a Education Researcher
+339,MLOps,Seldon MLOps Event,2023-08-19,12:00,Sangli-Miraj & Kupwad,Anthony White,Conference,Implement model performance monitoring and drift detection with Seldon
+340,Finance,Fixed Income Finance Event,2024-11-29,11:00,Jaipur,Aiden Young,Webinar,Create customized financial plans for clients with Fixed Income expertise
+342,Data Science,Matplotlib Data Science Event,2023-12-30,16:00,Allahabad,Jackson Garcia,Workshop,Explore machine learning techniques with Matplotlib
+343,Machine Learning,Keras Machine Learning Event,2023-10-02,16:00,Mysore,Jessica Martinez,Conference,Perform computer vision tasks with Keras
+344,Finance,Risk Management Finance Event,2024-05-12,17:00,Jamnagar,Sophia Thomas,Workshop,Conduct due diligence processes in Risk Management
+346,Data Science,TensorFlow Data Science Event,2024-10-20,13:00,Tiruppur,Olivia Lewis,Workshop,Utilize TensorFlow libraries for statistical modeling
+349,Cloud Computing,IBM Cloud Cloud Computing Event,2024-01-25,16:00,Bikaner,Charlotte Lewis,Workshop,Explore edge computing solutions with IBM Cloud
+354,Blockchain,Algorand Blockchain Event,2024-01-23,12:00,Nashik,Carter Thompson,Workshop,Develop non-fungible tokens (NFTs) on Algorand
+356,Frontend Development,React Frontend Development Event,2023-08-30,13:00,Pune,Joseph Anderson,Conference,Create interactive web applications with React
+359,Photography,Sigma Photography Event,2023-11-24,12:00,Kumbakonam,Chloe Martinez,Meetup,Build a portfolio showcasing Sigma photography skills
+365,Finance,Financial Planning Finance Event,2023-07-04,18:00,Jodhpur,James Hernandez,Workshop,Analyze financial markets and execute trades as Financial Planning
+366,Data Analysis,Investment Analyst Data Analysis Event,2023-06-27,14:00,Bhavnagar,Charlotte Taylor,Conference,Analyze and interpret data to uncover insights and trends as a Investment Analyst
+367,Computer Science,Perl Computer Science Event,2023-08-21,17:00,Pune,Aiden Harris,Webinar,Learn advanced concepts and techniques in Perl
+368,Engineering,Industrial Engineering Engineering Event,2024-11-22,10:00,Sangli-Miraj & Kupwad,Samuel Thompson,Conference,Address environmental challenges through engineering solutions as a Industrial Engineering
+369,Engineering,Computer Engineering Engineering Event,2025-02-12,15:00,Gorakhpur,Emily Thompson,Meetup,"Plan, design, and oversee construction projects as a Computer Engineering"
+370,Culinary Science,Culinary Anthropology Culinary Science Event,2024-12-03,14:00,Rajkot,Sophia Hernandez,Conference,Create avant-garde dishes using Culinary Anthropology techniques
+371,MLOps,Jenkins MLOps Event,2023-04-12,10:00,Jabalpur,Michael Anderson,Webinar,Implement model performance monitoring and drift detection with Jenkins
+372,Frontend Development,Angular Frontend Development Event,2023-07-11,09:00,Vasai-Virar,Jackson Thomas,Workshop,Master state management in Angular
+373,Human Resource,Talent Management Specialist Human Resource Event,2025-02-13,13:00,Vadodara,Sophia Taylor,Conference,Resolve workplace conflicts and issues as a Talent Management Specialist
+377,Data Science,R Data Science Event,2024-09-08,09:00,Vellore,Olivia Harris,Workshop,Perform predictive analytics using R
+379,DevOps,Alibaba Cloud DevOps Event,2023-06-28,11:00,Mumbai,Carter Martin,Workshop,Implement infrastructure as code (IaC) using Alibaba Cloud
+384,Artificial Intelligence,AI Researcher Artificial Intelligence Event,2024-05-01,13:00,Aligarh,Ella Thompson,Meetup,Utilize AI Researcher for data-driven decision-making
+386,Computer Science,Dart Computer Science Event,2024-08-10,16:00,Karur,David Lee,Webinar,Implement machine learning algorithms with Dart
+387,Software Engineer,Security Engineer Software Engineer Event,2023-11-06,09:00,Guntur,Evelyn Young,Workshop,Build responsive and scalable web applications as a Security Engineer
+389,Data Analysis,Marketing Analyst Data Analysis Event,2023-08-22,15:00,Gulbarga,James Davis,Meetup,Assess and mitigate risks through data-driven decision-making as a Marketing Analyst
+393,Finance,Financial Analysis Finance Event,2024-04-09,09:00,Karur,Emily Brown,Workshop,Analyze financial statements and ratios using Financial Analysis
+394,Marketing,Branding Marketing Event,2024-05-13,14:00,Amravati,Chloe White,Workshop,Design and execute targeted email campaigns with Branding
+397,MLOps,MLflow MLOps Event,2023-11-23,10:00,Vasai-Virar,Isabella Harris,Webinar,Monitor and manage machine learning infrastructure with MLflow
+398,Marketing Specialist,Brand Manager Marketing Specialist Event,2024-11-10,16:00,Meerut,Ethan Thompson,Meetup,Develop and execute brand strategies to enhance brand awareness and perception as a Brand Manager
+401,Culinary Science,Menu Planning Culinary Science Event,2024-03-01,10:00,Jamshedpur,Evelyn Young,Conference,Discover the cultural significance of Menu Planning
+402,Cloud Computing,Google Cloud Cloud Computing Event,2023-03-20,17:00,Gulbarga,Abigail Martinez,Webinar,Optimize cost and performance in Google Cloud cloud environments
+407,Machine Learning,Amazon SageMaker Machine Learning Event,2025-02-12,18:00,Chandigarh,Olivia Harris,Workshop,Implement clustering algorithms with Amazon SageMaker
+408,Data Analysis,Market Research Analyst Data Analysis Event,2024-11-30,18:00,Nashik,Amelia Martin,Conference,Optimize operational processes and workflows through data analysis as a Market Research Analyst
+409,DevOps,Azure DevOps Event,2023-11-14,18:00,Gurgaon,Ethan Martin,Meetup,Ensure continuous integration and delivery (CI/CD) with Azure
+410,Healthcare,Nursing Healthcare Event,2024-02-26,18:00,Rajkot,Avery Thompson,Meetup,Provide counseling and education on health and wellness using Nursing
+417,Engineering,Robotics Engineering Engineering Event,2024-02-07,18:00,Saharanpur,Sophia White,Webinar,Design medical devices and technologies as a Robotics Engineering
+418,Data Analysis,Product Analyst Data Analysis Event,2024-08-25,17:00,Tirunelveli,Amelia Anderson,Webinar,Assess and mitigate risks through data-driven decision-making as a Product Analyst
+423,Blockchain,Chainlink Blockchain Event,2023-04-13,10:00,Pune,Olivia Harris,Meetup,Understand the underlying technology of cryptocurrencies like Chainlink
+425,Data Analysis,Market Analyst Data Analysis Event,2024-02-17,17:00,Nagpur,Olivia Harris,Workshop,Analyze supply chain data to improve efficiency and reduce costs as a Market Analyst
+428,Marketing Specialist,Copywriter Marketing Specialist Event,2024-12-16,12:00,Hyderabad,Emily Brown,Meetup,Manage media relations and communications as a Copywriter
+429,Student,Graduate Student Student Event,2024-11-02,15:00,Karur,Ella Garcia,Workshop,Pursue academic excellence as a Graduate Student
+431,Software Engineer,Quality Assurance Engineer Software Engineer Event,2023-08-13,17:00,Jaipur,Charlotte Taylor,Conference,Build server-side applications and APIs using Quality Assurance Engineer technologies as a Quality Assurance Engineer
+432,Human Resource,Compensation Analyst Human Resource Event,2023-11-17,11:00,Vasai-Virar,Amelia Thompson,Webinar,Analyze compensation data and trends as a Compensation Analyst
+433,Culinary Science,Molecular Gastronomy Culinary Science Event,2024-05-24,12:00,Raipur,James Thompson,Webinar,Explore the science of fermentation and its applications in Molecular Gastronomy
+438,MLOps,Docker MLOps Event,2023-09-23,10:00,Jabalpur,Alexander Lewis,Meetup,Utilize Docker for model serving and inference
+441,Cloud Computing,Rackspace Cloud Computing Event,2024-10-11,14:00,Vellore,Samuel White,Meetup,Automate infrastructure provisioning and management with Rackspace Resource Manager
+443,MLOps,Arago MLOps Event,2024-07-13,15:00,Ajmer,Jackson Harris,Webinar,Implement reproducible machine learning pipelines with Arago
+445,Cloud Computing,Azure Cloud Computing Event,2024-02-06,15:00,Kumbakonam,Olivia Harris,Meetup,Leverage Azure for big data analytics and machine learning
+449,MLOps,Kubernetes MLOps Event,2024-07-12,15:00,Guwahati,Anthony Thompson,Meetup,Containerize machine learning applications with Kubernetes
+451,Machine Learning,Python Machine Learning Event,2023-10-13,18:00,Nagercoil,Samuel Martinez,Webinar,Implement clustering algorithms with Python
+455,Student,Transfer Student Student Event,2024-02-21,14:00,Bhubaneswar,Avery Hernandez,Webinar,Pursue academic excellence as a Transfer Student
+460,Accounting,Kashoo Accounting Event,2024-10-08,09:00,Ahmedabad,Emma Thompson,Meetup,Perform tax preparation using Kashoo
+461,Marketing,Digital Marketing Marketing Event,2023-11-09,15:00,Cuddalore,Mason Hernandez,Conference,Utilize mobile platforms for advertising and promotion with Digital Marketing
+463,Machine Learning,MATLAB Machine Learning Event,2024-10-23,14:00,Jabalpur,Matthew Garcia,Webinar,Explore ensemble learning methods with MATLAB
+471,Engineering,Materials Engineering Engineering Event,2024-08-04,12:00,Chennai,James Garcia,Conference,"Plan, design, and oversee construction projects as a Materials Engineering"
+473,Blockchain,EOS Blockchain Event,2024-08-20,10:00,Salem,Sophia Hernandez,Webinar,Implement blockchain-based identity management with EOS
+474,Cloud Computing,Heroku Cloud Computing Event,2024-10-19,13:00,Nellore,Joseph Hernandez,Conference,Explore edge computing solutions with Heroku
+477,Blockchain,Ontology Blockchain Event,2024-04-28,16:00,Noida,Charlotte Harris,Meetup,Build decentralized finance (DeFi) applications on Ontology
+478,Marketing Specialist,Creative Director Marketing Specialist Event,2024-05-02,16:00,Amritsar,Carter White,Conference,Create press releases and media pitches to secure coverage and exposure as a Creative Director
+486,Software Engineer,Embedded Systems Engineer Software Engineer Event,2023-11-15,16:00,Loni,Amelia Anderson,Webinar,Build server-side applications and APIs using Embedded Systems Engineer technologies as a Embedded Systems Engineer
+491,Culinary Science,Fermentation Culinary Science Event,2023-05-11,12:00,Chandigarh,Jackson Thomas,Conference,Explore the science of fermentation and its applications in Fermentation
+494,Photography,RED Digital Cinema Photography Event,2024-03-22,11:00,Akola,Matthew Garcia,Workshop,Master the use of RED Digital Cinema camera settings
+496,Culinary Science,Baking Culinary Science Event,2023-11-02,17:00,Sangli-Miraj & Kupwad,Samuel Young,Meetup,Master the techniques of pastry making and decoration in Baking
+504,Data Science,SAS Data Science Event,2024-04-05,11:00,Rourkela,Jackson Brown,Webinar,Use SAS for time series analysis
+507,Education,Instructional Designer Education Event,2025-03-07,15:00,Navi Mumbai,Michael Thompson,Webinar,Conduct research and contribute to academic scholarship as a Instructional Designer
+512,Culinary Science,Garden-to-Table Cooking Culinary Science Event,2024-02-03,09:00,Kochi,Joseph Hernandez,Webinar,Explore the science of fermentation and its applications in Garden-to-Table Cooking
+524,Software Engineer,Backend Developer Software Engineer Event,2023-03-16,13:00,Bareilly,Sophia Lewis,Webinar,Design and develop mobile applications for iOS and Android platforms as a Backend Developer
+526,Culinary Science,Cuisine Techniques Culinary Science Event,2024-01-24,10:00,Moradabad,Ella White,Workshop,Hands-on experience with Cuisine Techniques principles
+530,Marketing Specialist,Social Media Manager Marketing Specialist Event,2024-07-24,11:00,Nellore,Ella Hernandez,Conference,Optimize website traffic and visibility through search engine optimization techniques as a Social Media Manager
+533,Artificial Intelligence,Deep Learning Specialist Artificial Intelligence Event,2023-03-17,15:00,Delhi,Andrew Taylor,Workshop,Apply Deep Learning Specialist for text classification and sentiment analysis
+534,Data Science,D3.js Data Science Event,2023-11-18,12:00,Madurai,Samuel Johnson,Meetup,Use D3.js for time series analysis
+542,Machine Learning,Tensorflow Machine Learning Event,2024-10-29,17:00,Bangalore,Olivia Brown,Conference,Implement machine learning algorithms with Tensorflow
+544,Artificial Intelligence,Reinforcement Learning Specialist Artificial Intelligence Event,2023-12-04,10:00,Bhavnagar,James Young,Conference,Develop and deploy machine learning models as a Reinforcement Learning Specialist
+551,Artificial Intelligence,AI Software Developer Artificial Intelligence Event,2024-05-20,10:00,Dehradun,Isabella Martinez,Workshop,Utilize AI Software Developer for data-driven decision-making
+552,Marketing,Search Engine Marketing Marketing Event,2024-02-17,17:00,Mumbai,Abigail Thompson,Meetup,Create compelling video content for Search Engine Marketing campaigns
+555,Healthcare,Health Information Management Healthcare Event,2024-01-13,10:00,Cuttack,Charlotte Brown,Workshop,Oversee operations and ensure quality care delivery in healthcare facilities as a Health Information Management
+559,Culinary Science,Kitchen Management Culinary Science Event,2024-10-03,15:00,Jamshedpur,James Young,Workshop,Experiment with sous vide cooking methods and temperature control in Kitchen Management
+560,Data Science,Python Data Science Event,2024-05-08,14:00,Sangli-Miraj & Kupwad,Ella Thompson,Meetup,Utilize Python libraries for statistical modeling
+566,Computer Science,Kotlin Computer Science Event,2023-10-11,17:00,Saharanpur,Evelyn Thomas,Conference,Build real-world projects using Kotlin
+568,Culinary Science,Experimental Cooking Culinary Science Event,2024-06-03,10:00,Karur,Carter Garcia,Webinar,Learn the science behind Experimental Cooking in cooking
+570,Student,Doctoral Candidate Student Event,2023-12-04,11:00,Hubli-Dharwad,Isabella Harris,Webinar,Participate in student organizations and clubs as a Doctoral Candidate
+571,Software Engineer,Database Administrator Software Engineer Event,2023-06-22,09:00,Tiruchirappalli,Grace Garcia,Meetup,Create interactive and immersive gaming experiences as a Database Administrator
+572,Healthcare,Healthcare Management Healthcare Event,2024-02-15,09:00,Nellore,Ethan Brown,Meetup,Utilize telehealth technologies in Healthcare Management
+577,Data Science,Keras Data Science Event,2023-08-30,10:00,Bareilly,Evelyn Thomas,Conference,Analyze social media data using Keras
+583,Machine Learning,R Machine Learning Event,2023-05-08,13:00,Solapur,Ella Hernandez,Meetup,Explore deep learning concepts with R
+591,MLOps,TFX MLOps Event,2024-09-16,15:00,Bareilly,Aiden Young,Workshop,Containerize machine learning applications with TFX
+594,Accounting,Wave Accounting Event,2023-04-23,09:00,Madurai,Michael Martinez,Webinar,Integrate Wave with banking transactions
+596,Blockchain,Corda Blockchain Event,2024-08-01,18:00,Pimpri-Chinchwad,Joshua Hernandez,Webinar,Explore blockchain interoperability solutions with Corda
+597,Engineering,Telecommunications Engineering Engineering Event,2024-02-14,17:00,Namakkal,Sophia Thomas,Conference,Develop processes and systems for chemical manufacturing as a Telecommunications Engineering
+599,Student,Freshman Student Event,2025-01-07,15:00,Ahmedabad,Aiden Hernandez,Meetup,Select courses and majors aligned with career goals as a Freshman
+600,Artificial Intelligence,AI Trainer Artificial Intelligence Event,2024-08-09,15:00,Patna,Olivia Brown,Webinar,Design and implement autonomous systems with AI Trainer
+602,Data Science,Power BI Data Science Event,2023-10-10,09:00,Nashik,David Thompson,Webinar,Perform predictive analytics using Power BI
+603,Engineering,Software Engineering Engineering Event,2024-05-02,13:00,Gorakhpur,Ethan Taylor,Webinar,Perform structural analysis and design in Software Engineering
+611,Software Engineer,Test Automation Engineer Software Engineer Event,2024-08-06,15:00,Rajkot,Grace Anderson,Meetup,Build server-side applications and APIs using Test Automation Engineer technologies as a Test Automation Engineer
+612,Machine Learning,MLflow Machine Learning Event,2024-11-19,09:00,Cuttack,Mason Hernandez,Workshop,Implement clustering algorithms with MLflow
+614,Culinary Science,Sous Vide Cooking Culinary Science Event,2023-05-06,11:00,Noida,Sophia Garcia,Meetup,Understand the chemical reactions that occur during cooking and food preparation in Sous Vide Cooking
+619,Blockchain,IOTA Blockchain Event,2024-04-08,15:00,Jammu,Aiden Garcia,Conference,Explore blockchain interoperability solutions with IOTA
+620,Blockchain,VeChain Blockchain Event,2023-05-12,09:00,Navi Mumbai,Ethan Taylor,Conference,Conduct tokenomics and ICOs (Initial Coin Offerings) on VeChain
+623,MLOps,MLeap MLOps Event,2025-02-19,18:00,Thane,Ethan Taylor,Conference,Orchestrate machine learning workflows at scale using MLeap
+625,Education,Curriculum Developer Education Event,2024-10-25,17:00,Agra,Andrew Harris,Webinar,Evaluate educational programs and interventions for effectiveness as a Curriculum Developer
+630,Software Engineer,UI/UX Designer Software Engineer Event,2023-11-04,18:00,Bangalore,Charlotte Brown,Webinar,Build server-side applications and APIs using UI/UX Designer technologies as a UI/UX Designer
+634,Frontend Development,D3.js Frontend Development Event,2024-05-25,10:00,Ghaziabad,Alexander Lewis,Conference,Explore component-based architecture with D3.js
+638,Photography,Red Photography Event,2024-01-25,10:00,Saharanpur,Daniel Wilson,Meetup,Explore different photography techniques with Red
+639,Blockchain,Cosmos Blockchain Event,2025-02-28,16:00,Vadodara,Mason Hernandez,Workshop,Explore smart contract development with Cosmos
+640,Computer Science,Rust Computer Science Event,2025-01-22,13:00,Bhavnagar,Daniel Wilson,Meetup,Implement machine learning algorithms with Rust
+643,Blockchain,NEO Blockchain Event,2024-01-15,16:00,Amravati,Olivia Lewis,Webinar,Implement blockchain governance frameworks with NEO
+647,Marketing,Social Media Marketing Marketing Event,2024-07-24,13:00,Bangalore,Ethan Taylor,Conference,Collaborate with influencers to reach target audiences through Social Media Marketing
+654,Software Engineer,Software Architect Software Engineer Event,2025-02-01,09:00,Patna,Joseph Young,Webinar,Design and develop mobile applications for iOS and Android platforms as a Software Architect
+656,Data Analysis,Customer Insights Analyst Data Analysis Event,2024-11-29,18:00,Kolkata,James Young,Meetup,Utilize data visualization techniques to present findings and trends as a Customer Insights Analyst
+660,Marketing Specialist,PPC Specialist Marketing Specialist Event,2023-10-06,12:00,Dehradun,Joshua Young,Webinar,Conduct A/B testing and experimentation to improve marketing effectiveness as a PPC Specialist
+661,Student,Online Student Student Event,2025-02-20,09:00,Coimbatore,Michael Johnson,Workshop,Seek mentorship and guidance from professors and advisors as a Online Student
+666,DevOps,Puppet DevOps Event,2024-10-22,14:00,Cuddalore,Jackson White,Webinar,Integrate with other DevOps tools and platforms using Puppet
+680,Artificial Intelligence,Machine Learning Engineer Artificial Intelligence Event,2023-10-30,17:00,Navi Mumbai,Chloe Lewis,Webinar,Design and implement autonomous systems with Machine Learning Engineer
+687,Frontend Development,Vue.js Frontend Development Event,2023-12-26,10:00,Warangal,Avery Johnson,Meetup,Build dynamic user interfaces with Vue.js
+696,Culinary Science,Hospitality Management Culinary Science Event,2024-06-11,14:00,Mysore,Jackson Harris,Workshop,Experiment with different baking techniques and ingredients in Hospitality Management
+703,Education,Professor Education Event,2024-10-07,14:00,Patna,Ethan Brown,Conference,Facilitate professional development workshops and training sessions as a Professor
+706,Healthcare,Dental Hygiene Healthcare Event,2024-08-22,12:00,Erode,Alexander Thompson,Webinar,Provide counseling and education on health and wellness using Dental Hygiene
+716,Education,School Counselor Education Event,2023-10-15,15:00,Agra,Sophia Lewis,Meetup,Develop and implement individualized education plans for students with special needs as a School Counselor
+717,Accounting,MYOB Accounting Event,2024-12-09,15:00,Chennai,Jackson Harris,Conference,Perform financial analysis using MYOB
+719,Data Science,Hadoop Data Science Event,2023-10-11,16:00,Kumbakonam,Ella Harris,Webinar,Apply Hadoop for sentiment analysis
+720,Computer Science,Julia Computer Science Event,2023-07-31,18:00,Chennai,Evelyn Thomas,Meetup,Learn database management and querying with Julia
+721,Marketing,Content Marketing Marketing Event,2023-07-05,17:00,Navi Mumbai,Jackson Hernandez,Meetup,Collaborate with influencers to reach target audiences through Content Marketing
+725,Software Engineer,DevOps Engineer Software Engineer Event,2023-07-15,11:00,Tiruchirappalli,Liam Hernandez,Meetup,Integrate third-party APIs and services into applications as a DevOps Engineer
+727,Machine Learning,Java Machine Learning Event,2023-08-11,17:00,Vellore,Avery Thompson,Workshop,Apply Java for natural language processing
+733,Accounting,Wave Accounting Accounting Event,2024-05-05,17:00,Hubli-Dharwad,Avery Brown,Workshop,Manage payroll processes with Wave Accounting
+736,Marketing Specialist,Email Marketing Specialist Marketing Specialist Event,2023-12-02,13:00,Rourkela,Samuel Martin,Conference,Conduct A/B testing and experimentation to improve marketing effectiveness as a Email Marketing Specialist
+738,Frontend Development,Tailwind CSS Frontend Development Event,2023-09-02,17:00,Bikaner,Sophia Garcia,Conference,Build dynamic user interfaces with Tailwind CSS
+744,MLOps,KubeDirector MLOps Event,2024-08-29,09:00,Madurai,Sophia Brown,Meetup,Manage and monitor machine learning experiments with KubeDirector
+746,Healthcare,Medical Assisting Healthcare Event,2024-02-13,14:00,Erode,Liam Brown,Meetup,Provide counseling and education on health and wellness using Medical Assisting
+757,Marketing Specialist,Content Creator Marketing Specialist Event,2023-12-18,11:00,Bhavnagar,Emily Brown,Webinar,Manage social media platforms and engage with audiences to build brand presence as a Content Creator
+760,Education,Education Specialist Education Event,2024-05-18,11:00,Pimpri-Chinchwad,Madison Brown,Meetup,Develop and implement individualized education plans for students with special needs as a Education Specialist
+776,Cloud Computing,Oracle Cloud Cloud Computing Event,2023-07-02,14:00,Karur,Abigail Taylor,Meetup,Leverage Oracle Cloud for big data analytics and machine learning
+782,Artificial Intelligence,AI Product Manager Artificial Intelligence Event,2023-06-23,14:00,Rourkela,Chloe White,Workshop,Develop computer vision algorithms using AI Product Manager
+797,Student,Junior Student Event,2024-10-23,13:00,Vasai-Virar,Abigail Taylor,Webinar,Gain practical experience through part-time jobs and internships as a Junior
+812,Photography,Olympus Photography Event,2024-07-19,13:00,Howrah,Andrew Martinez,Conference,Explore the history and evolution of Olympus cameras
+813,Education,Teacher Education Event,2024-03-30,09:00,Coimbatore,Emily Brown,Meetup,Create engaging learning experiences with Teacher
+815,Frontend Development,Ant Design Frontend Development Event,2024-03-29,17:00,Aurangabad,Alexander Brown,Webinar,Master state management in Ant Design
+820,Data Science,Pandas Data Science Event,2024-04-01,12:00,Vasai-Virar,Olivia White,Webinar,Apply Pandas for data analysis and visualization
+827,Artificial Intelligence,Data Engineer Artificial Intelligence Event,2023-10-30,12:00,Aligarh,Carter Garcia,Conference,Analyze large datasets using Data Engineer techniques
+848,Marketing Specialist,Advertising Coordinator Marketing Specialist Event,2023-04-28,15:00,Varanasi,Isabella Young,Meetup,Coordinate advertising campaigns and promotional activities to drive customer engagement as a Advertising Coordinator
+851,Healthcare,Medical Laboratory Science Healthcare Event,2023-04-30,13:00,Cuddalore,Ethan Jones,Webinar,Design rehabilitation programs for patients with Medical Laboratory Science
+862,Frontend Development,Three.js Frontend Development Event,2023-08-14,16:00,Bhubaneswar,Alexander Hernandez,Webinar,Build progressive web apps (PWAs) with Three.js
+867,Machine Learning,Pandas Machine Learning Event,2025-02-22,13:00,Bhubaneswar,Carter Thompson,Workshop,Implement clustering algorithms with Pandas
+878,Healthcare,Speech-Language Pathology Healthcare Event,2024-03-11,13:00,Delhi,Chloe White,Meetup,Assess and treat communication and swallowing disorders with Speech-Language Pathology
+889,Software Engineer,Mobile App Developer Software Engineer Event,2024-02-02,10:00,Durgapur,Avery Brown,Conference,Optimize application performance and scalability as a Mobile App Developer
+899,Culinary Science,Food Microbiology Culinary Science Event,2023-09-15,17:00,Vijayawada,James Garcia,Workshop,Experiment with sous vide cooking methods and temperature control in Food Microbiology
+948,Machine Learning,IBM Watson Machine Learning Event,2024-04-29,12:00,Firozabad,Joseph Young,Workshop,Apply IBM Watson for time series forecasting
+959,Student,Postgraduate Student Student Event,2023-09-30,12:00,Coimbatore,Ethan Jones,Webinar,Explore diverse subjects and extracurricular activities as a Postgraduate Student
+968,Student,Undergraduate Student Student Event,2024-03-22,12:00,Tiruppur,Jackson White,Conference,Prepare for standardized tests and exams as a Undergraduate Student
+983,Healthcare,Healthcare Quality Management Healthcare Event,2025-02-19,14:00,Dindigul,Amelia Martin,Workshop,Dispense medications and provide pharmaceutical care as a Healthcare Quality Management
+988,Student,Exchange Student Student Event,2023-12-16,10:00,Kolhapur,Abigail Brown,Webinar,Pursue academic excellence as a Exchange Student
+990,Education,Education Outreach Coordinator Education Event,2023-04-21,11:00,Madurai,Mia Davis,Workshop,Integrate technology into teaching and learning processes as a Education Outreach Coordinator
+1013,Computer Science,TypeScript Computer Science Event,2023-08-23,13:00,Thanjavur,Daniel Wilson,Conference,Understand data structures and algorithms with TypeScript
+1023,Computer Science,Java Computer Science Event,2024-04-05,09:00,Ulhasnagar,David Martinez,Workshop,Understand data structures and algorithms with Java
+1030,Marketing,Viral Marketing Marketing Event,2025-03-02,18:00,Solapur,Ella Brown,Workshop,Utilize mobile platforms for advertising and promotion with Viral Marketing
+1046,Student,College Student Student Event,2023-08-15,11:00,Vasai-Virar,Abigail White,Conference,Seek mentorship and guidance from professors and advisors as a College Student
+1057,MLOps,Metaflow MLOps Event,2023-12-27,18:00,Madurai,Abigail Anderson,Meetup,Optimize hyperparameter tuning with Metaflow
+1068,MLOps,TorchServe MLOps Event,2023-05-31,14:00,Nanded,Alexander Brown,Meetup,Ensure data lineage and provenance with TorchServe
+1070,Photography,Blackmagic Design Photography Event,2024-04-27,14:00,Firozabad,David Hernandez,Conference,Explore black and white photography with Blackmagic Design
+1074,Blockchain,Solidity Blockchain Event,2024-10-27,14:00,Hubli-Dharwad,Carter Garcia,Workshop,Conduct tokenomics and ICOs (Initial Coin Offerings) on Solidity
+1078,Machine Learning,XGBoost Machine Learning Event,2024-09-03,12:00,Ranchi,Sophia Lewis,Meetup,Perform hyperparameter tuning with XGBoost
+1127,Student,Part-time Student Student Event,2023-07-01,14:00,Meerut,Daniel Wilson,Webinar,Explore diverse subjects and extracurricular activities as a Part-time Student
+1128,Computer Science,Swift Computer Science Event,2023-07-08,13:00,Bhubaneswar,Chloe Thomas,Conference,Secure applications and networks with Swift
+1135,MLOps,MLCI MLOps Event,2025-02-02,18:00,Bareilly,Olivia Brown,Conference,Monitor and manage machine learning infrastructure with MLCI
+1186,Cloud Computing,Box Cloud Computing Event,2024-11-09,16:00,Bhubaneswar,Michael Anderson,Workshop,Utilize serverless computing services in Box
+1197,Culinary Science,Food Preservation Culinary Science Event,2024-08-27,12:00,Bareilly,David Rodriguez,Meetup,Master the techniques of pastry making and decoration in Food Preservation
+1211,Data Science,Spark Data Science Event,2023-06-15,16:00,Howrah,Liam Young,Meetup,Employ Spark for geospatial analysis
+1215,Machine Learning,Scikit-learn Machine Learning Event,2023-07-25,16:00,Ramanathapuram,Aiden Brown,Workshop,Apply Scikit-learn for time series forecasting
+1224,Machine Learning,H2O.ai Machine Learning Event,2024-06-02,16:00,Tiruchirappalli,Joshua Thompson,Meetup,Apply H2O.ai for time series forecasting
+1244,Data Analysis,Financial Analyst Data Analysis Event,2023-11-12,09:00,Akola,Elizabeth Thompson,Webinar,Utilize statistical methods and tools for quantitative analysis as a Financial Analyst
+1308,Artificial Intelligence,Speech Recognition Engineer Artificial Intelligence Event,2024-10-02,15:00,Jamnagar,Emma Thompson,Webinar,Develop computer vision algorithms using Speech Recognition Engineer
+1374,Data Science,SQL Data Science Event,2024-10-28,10:00,Kancheepuram,Olivia Lewis,Conference,Utilize SQL for data cleaning and preprocessing
+1381,Culinary Science,Food History Culinary Science Event,2024-02-12,15:00,Asansol,Carter Johnson,Workshop,Experiment with different baking techniques and ingredients in Food History
+1399,Cloud Computing,Salesforce Cloud Cloud Computing Event,2024-07-02,14:00,Kota,Charlotte Lewis,Meetup,Manage containerized applications with Salesforce Cloud Kubernetes Engine
+1421,Marketing,Direct Marketing Marketing Event,2024-08-31,12:00,Hubli-Dharwad,Matthew Taylor,Webinar,Automate marketing processes with Direct Marketing tools
+1447,Finance,Financial Modeling Finance Event,2024-01-28,15:00,Kochi,Liam Hernandez,Workshop,Structure mergers and acquisitions deals in Financial Modeling
+1448,Computer Science,Go Computer Science Event,2023-11-18,17:00,Mumbai,Emily Garcia,Workshop,Learn advanced concepts and techniques in Go
+1452,Photography,Arri Photography Event,2024-03-09,12:00,Tiruchirappalli,Michael Anderson,Conference,Build a portfolio showcasing Arri photography skills
+1498,Engineering,Petroleum Engineering Engineering Event,2024-07-18,15:00,Thoothukudi,Ella Lewis,Webinar,Design and analyze mechanical systems and components as a Petroleum Engineering
+1514,Engineering,Structural Engineering Engineering Event,2024-06-14,14:00,Asansol,Liam Young,Webinar,Perform structural analysis and design in Structural Engineering
+1615,Data Analysis,Risk Analyst Data Analysis Event,2024-12-11,13:00,Jhansi,Avery Wilson,Conference,Evaluate healthcare data to identify trends and improve patient outcomes as a Risk Analyst
+1672,Frontend Development,Flutter Frontend Development Event,2023-07-20,12:00,Gorakhpur,Amelia Taylor,Conference,Build progressive web apps (PWAs) with Flutter
+1801,Blockchain,Tezos Blockchain Event,2023-10-10,18:00,Rourkela,David Lee,Meetup,Conduct blockchain consensus mechanism research with Tezos
+1863,Engineering,Mechanical Engineering Engineering Event,2024-10-17,10:00,Hyderabad,Isabella Anderson,Webinar,Develop new materials for various applications as a Mechanical Engineering
+1882,Data Science,Julia Data Science Event,2023-06-30,17:00,Thane,James Thompson,Meetup,Implement data mining algorithms with Julia
+2102,Machine Learning,Azure ML Machine Learning Event,2023-12-29,09:00,Jodhpur,Grace Thomas,Conference,Apply Azure ML for time series forecasting
+2913,Software Engineer,Release Engineer Software Engineer Event,2024-06-07,18:00,Bangalore,Matthew Brown,Webinar,Develop firmware and software for embedded systems as a Release Engineer
+3420,Engineering,Civil Engineering Engineering Event,2024-08-11,17:00,Villupuram,Samuel White,Conference,Design medical devices and technologies as a Civil Engineering
+-2147483648,Data Science,Product Owners in Data Science,2022-10-21,20:47,Bhavnagar,Anna Hannemann,PODCAST,Not getting stuck at the POC Stage

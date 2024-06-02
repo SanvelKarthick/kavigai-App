@@ -1,0 +1,15 @@
+artifact_path: KNN_event_recommendation_pyfunc
+flavors:
+  python_function:
+    cloudpickle_version: 2.0.0
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.10.9
+mlflow_version: 2.10.2
+model_size_bytes: 282552
+model_uuid: d73af1f1737a4da2b210b6d96776786e
+run_id: 62fd2aa987b94d4398ec7acb9eb6c52d
+utc_time_created: '2024-04-27 13:31:11.622534'

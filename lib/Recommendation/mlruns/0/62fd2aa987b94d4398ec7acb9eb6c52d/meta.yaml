@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/karthikeyans/kdemo/lib/Recommendation/mlruns/0/62fd2aa987b94d4398ec7acb9eb6c52d/artifacts
+end_time: 1714224671901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62fd2aa987b94d4398ec7acb9eb6c52d
+run_name: Content-Based event recommendation using KNN
+run_uuid: 62fd2aa987b94d4398ec7acb9eb6c52d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714224671612
+status: 3
+tags: []
+user_id: karthikeyans

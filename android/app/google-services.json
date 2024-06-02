@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46667858794",
+    "project_id": "kavigai-demo",
+    "storage_bucket": "kavigai-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46667858794:android:f0f25573c9650ca73adb13",
+        "android_client_info": {
+          "package_name": "com.example.kdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7u9ez_dxRJendcgPIiv5bD6oZkqoCKrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

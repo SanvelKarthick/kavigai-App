@@ -1,0 +1,12 @@
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python = 3.6.2
+- nltk = 3.8.1
+- nltk_data
+- pip:
+  - mlflow==2.10.2
+  - scikit-learn
+  - cloudpickle=1.2.2
+name: mlflow-env
