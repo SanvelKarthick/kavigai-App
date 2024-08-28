@@ -8,7 +8,8 @@
 
 # Home Page 
 - Intro Page to Home page Navigate
-``` GestureDetector(
+```
+GestureDetector(
               onTap: () => Navigator.pushReplacement(
                 context,
                 MaterialPageRoute(
