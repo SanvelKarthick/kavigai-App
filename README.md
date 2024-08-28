@@ -1,4 +1,6 @@
-# KAVIGAI APP | FRONT-END APPLICATION
-Kavigai is a mobile application developed using Flutter and Firebase, leveraging Flutter's robust UI toolkit for building natively compiled applications across multiple platforms from a single codebase. The integration of Firebase provides backend services such as real-time databases, authentication, cloud storage, and analytics, enabling Kavigai to offer a seamless and scalable user experience. The app likely includes features like user authentication, real-time data synchronization, push notifications, and cloud-based data storage, making it both responsive and reliable. This combination of technologies ensures that Kavigai is efficient in development and offers a high-performance, cross-platform mobile experience.
+# Kavigai App | FRONT-END APPLICATION
+Kavigai is a mobile application developed using Flutter and Firebase, leveraging Flutter's robust UI toolkit for building natively compiled applications across multiple platforms from a single codebase. The integration of Firebase provides backend services such as real-time databases, authentication, cloud storage, and analytics, enabling Kavigai to offer a seamless and scalable user experience. 
 
-**h2**
+
+![Picture 1](https://github.com/user-attachments/assets/320c8475-0484-409d-a19d-deb141dd773b)
+![Picture 2](https://github.com/user-attachments/assets/9db92792-fc09-4c3a-9446-f2e3e39339b8)
