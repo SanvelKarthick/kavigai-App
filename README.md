@@ -18,9 +18,6 @@
 ```
 <img width="487" alt="Screenshot 2024-08-29 at 2 42 24 AM" src="https://github.com/user-attachments/assets/ecd54d7f-a1dd-4be6-9c8d-42ff59a61778">
 
-# Goal Page - CRUD Operaton
-- Goal Creation
-- Goal Saving
-- Goal Updating
-- Goal Delete
+# Goal Page - CRUD Operation
+- Goal Creation - Goal Saving - Goal Updating - Goal Delete
 
