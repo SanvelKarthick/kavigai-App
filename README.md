@@ -23,5 +23,11 @@
 > Goal crud operations
  <img width="391" alt="Screenshot 2024-08-29 at 2 50 24 AM" src="https://github.com/user-attachments/assets/9be77c6e-4480-4dd0-a0bc-6f7212ad29d7">
 
+## Firebase Database 
+- Slider option & database
+> Slider option
+<img width="393" alt="Screenshot 2024-08-29 at 2 57 29 AM" src="https://github.com/user-attachments/assets/edaec312-c2d6-4fdf-b8b4-f890faceefbd">
+> firestore database save
+
 
 
