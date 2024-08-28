@@ -15,4 +15,5 @@
                   builder: (context) {
                     return const HomeScreen();
 ```
-<img width="381" alt="Screenshot 2024-08-29 at 2 29 08 AM" src="https://github.com/user-attachments/assets/76c79676-8b74-4489-ba55-b03fd1dfc39a">
+<img width="487" alt="Screenshot 2024-08-29 at 2 42 24 AM" src="https://github.com/user-attachments/assets/ecd54d7f-a1dd-4be6-9c8d-42ff59a61778">
+
