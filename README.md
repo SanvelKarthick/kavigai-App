@@ -7,9 +7,7 @@
 - Firebase - Firestore CLI connection
 
 # Home Page 
-- App bar
-- Menu Drawer
-- Bottom Navigator
+- App bar - Menu Drawer - Bottom Navigator
 >Intro Page to Home page Navigate
 ```
               onTap: () => Navigator.pushReplacement(
